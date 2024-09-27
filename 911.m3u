@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,凤凰卫视资讯高清
-http://cietv.com/fhzx.m3u8
-#EXTINF:-1 ,凤凰卫视高清
-http://cietv.com/fhzw.m3u8
 #EXTINF:-1 ,CCTV-1高清
 http://192.168.2.3:4022/udp/239.93.40.184:5140
 #EXTINF:-1 ,CCTV-2高清
